@@ -34,10 +34,13 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.pictureBox1.Image = global::HoneyDB.Properties.Resources.descarga;
-            this.pictureBox1.Location = new System.Drawing.Point(92, 373);
+            this.pictureBox1.Location = new System.Drawing.Point(0, 372);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 3, 3, 100);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(599, 78);
+            this.pictureBox1.Size = new System.Drawing.Size(800, 78);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
