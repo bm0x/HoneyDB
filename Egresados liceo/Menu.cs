@@ -23,5 +23,11 @@ namespace Egresados_liceo
             Login L = new Login();
             L.Show();
         }
+
+        private void ayudaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ayuda Ayu_da = new Ayuda();
+            Ayu_da.Show();
+        }
     }
 }

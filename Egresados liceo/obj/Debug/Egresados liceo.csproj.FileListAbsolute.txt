@@ -20,3 +20,15 @@ D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.
 D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.csproj.CoreCompileInputs.cache
 D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.exe
 D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.pdb
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\bin\Debug\Egresados liceo.exe.config
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\bin\Debug\Egresados liceo.exe
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\bin\Debug\Egresados liceo.pdb
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.csproj.AssemblyReference.cache
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados_liceo.Ayuda.resources
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados_liceo.Login.resources
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados_liceo.Menu.resources
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados_liceo.Properties.Resources.resources
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.csproj.GenerateResource.cache
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.csproj.CoreCompileInputs.cache
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.exe
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.pdb

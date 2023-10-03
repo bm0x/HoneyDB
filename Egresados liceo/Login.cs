@@ -28,5 +28,10 @@ namespace Egresados_liceo
         {
             Application.Exit();
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
