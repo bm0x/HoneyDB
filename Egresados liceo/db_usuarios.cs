@@ -10,6 +10,10 @@ namespace Egresados_liceo
     {
         public static string ConexionUsers = "server=DESKTOP-31DMBTP;database=juanita_usuarios;uid =sa; pwd =admin123";
     }
+    class db_egresados
+    {
+        public static string ConexionEgresados = "server=DESKTOP-31DMBTP;database=juanita_db;uid =sa; pwd =admin123";
+    }
 }
 // DB Franco:
 // DB Anibal:

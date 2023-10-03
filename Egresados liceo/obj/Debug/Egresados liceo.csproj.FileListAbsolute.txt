@@ -32,3 +32,4 @@ C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados lic
 C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.csproj.CoreCompileInputs.cache
 C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.exe
 C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.pdb
+C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados_liceo.log.resources

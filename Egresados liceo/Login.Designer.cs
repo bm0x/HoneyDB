@@ -36,6 +36,7 @@ namespace Egresados_liceo
             this.txt_user = new System.Windows.Forms.TextBox();
             this.txt_pass = new System.Windows.Forms.TextBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.bienvenida_user = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -103,12 +104,24 @@ namespace Egresados_liceo
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::Egresados_liceo.Properties.Resources.sdfa_removebg_preview__2_;
-            this.pictureBox1.Location = new System.Drawing.Point(329, 45);
+            this.pictureBox1.Location = new System.Drawing.Point(329, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(167, 133);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
+            // 
+            // bienvenida_user
+            // 
+            this.bienvenida_user.AutoSize = true;
+            this.bienvenida_user.BackColor = System.Drawing.Color.Transparent;
+            this.bienvenida_user.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bienvenida_user.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.bienvenida_user.Location = new System.Drawing.Point(258, 156);
+            this.bienvenida_user.Name = "bienvenida_user";
+            this.bienvenida_user.Size = new System.Drawing.Size(297, 24);
+            this.bienvenida_user.TabIndex = 7;
+            this.bienvenida_user.Text = "Bienvenido, Por favor inicia sesion";
             // 
             // Login
             // 
@@ -117,6 +130,7 @@ namespace Egresados_liceo
             this.BackgroundImage = global::Egresados_liceo.Properties.Resources.saw;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 406);
+            this.Controls.Add(this.bienvenida_user);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.txt_pass);
             this.Controls.Add(this.txt_user);
@@ -142,5 +156,6 @@ namespace Egresados_liceo
         private System.Windows.Forms.TextBox txt_user;
         private System.Windows.Forms.TextBox txt_pass;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label bienvenida_user;
     }
 }
