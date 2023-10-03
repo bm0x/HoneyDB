@@ -1,0 +1,22 @@
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.csproj.AssemblyReference.cache
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados_liceo.Login.resources
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados_liceo.Properties.Resources.resources
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.csproj.GenerateResource.cache
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.csproj.CoreCompileInputs.cache
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\bin\Debug\Egresados liceo.exe.config
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\bin\Debug\Egresados liceo.exe
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\bin\Debug\Egresados liceo.pdb
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.exe
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.pdb
+C:\Users\pc}\Desktop\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados_liceo.Menu.resources
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\bin\Debug\Egresados liceo.exe.config
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\bin\Debug\Egresados liceo.exe
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\bin\Debug\Egresados liceo.pdb
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.csproj.AssemblyReference.cache
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados_liceo.Login.resources
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados_liceo.Menu.resources
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados_liceo.Properties.Resources.resources
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.csproj.GenerateResource.cache
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.csproj.CoreCompileInputs.cache
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.exe
+D:\proyecto pan\liceo\Egresados liceo\Egresados liceo\obj\Debug\Egresados liceo.pdb
