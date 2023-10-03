@@ -26,5 +26,10 @@ namespace HoneyDB
         {
 
         }
+
+        private void Pantalla_inicial_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
