@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -37,7 +38,6 @@ namespace Egresados_liceo
 
         private void Menu_Load(object sender, EventArgs e)
         {
-
         }
 
         private void changelogProyectoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -45,6 +45,12 @@ namespace Egresados_liceo
             this.Hide();
             log change = new log();
             change.Show();
+        }
+
+        private void cUENTASToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
         }
     }
 }

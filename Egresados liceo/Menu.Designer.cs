@@ -35,9 +35,11 @@ namespace Egresados_liceo
             this.carreraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.changelogProyectoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.aDMINISTRACIÓNToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cUENTASToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.changelogProyectoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -56,6 +58,7 @@ namespace Egresados_liceo
             this.carreraToolStripMenuItem,
             this.informesToolStripMenuItem,
             this.ayudaToolStripMenuItem,
+            this.aDMINISTRACIÓNToolStripMenuItem,
             this.changelogProyectoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(1, 137);
             this.menuStrip1.Name = "menuStrip1";
@@ -90,6 +93,28 @@ namespace Egresados_liceo
             this.ayudaToolStripMenuItem.Text = "Ayuda";
             this.ayudaToolStripMenuItem.Click += new System.EventHandler(this.ayudaToolStripMenuItem_Click);
             // 
+            // changelogProyectoToolStripMenuItem
+            // 
+            this.changelogProyectoToolStripMenuItem.Name = "changelogProyectoToolStripMenuItem";
+            this.changelogProyectoToolStripMenuItem.Size = new System.Drawing.Size(145, 23);
+            this.changelogProyectoToolStripMenuItem.Text = "Changelog Proyecto";
+            this.changelogProyectoToolStripMenuItem.Click += new System.EventHandler(this.changelogProyectoToolStripMenuItem_Click);
+            // 
+            // aDMINISTRACIÓNToolStripMenuItem
+            // 
+            this.aDMINISTRACIÓNToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.cUENTASToolStripMenuItem});
+            this.aDMINISTRACIÓNToolStripMenuItem.Name = "aDMINISTRACIÓNToolStripMenuItem";
+            this.aDMINISTRACIÓNToolStripMenuItem.Size = new System.Drawing.Size(136, 23);
+            this.aDMINISTRACIÓNToolStripMenuItem.Text = "ADMINISTRACIÓN";
+            // 
+            // cUENTASToolStripMenuItem
+            // 
+            this.cUENTASToolStripMenuItem.Name = "cUENTASToolStripMenuItem";
+            this.cUENTASToolStripMenuItem.Size = new System.Drawing.Size(180, 24);
+            this.cUENTASToolStripMenuItem.Text = "CUENTAS";
+            this.cUENTASToolStripMenuItem.Click += new System.EventHandler(this.cUENTASToolStripMenuItem_Click);
+            // 
             // pictureBox3
             // 
             this.pictureBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
@@ -117,13 +142,6 @@ namespace Egresados_liceo
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
-            // 
-            // changelogProyectoToolStripMenuItem
-            // 
-            this.changelogProyectoToolStripMenuItem.Name = "changelogProyectoToolStripMenuItem";
-            this.changelogProyectoToolStripMenuItem.Size = new System.Drawing.Size(145, 23);
-            this.changelogProyectoToolStripMenuItem.Text = "Changelog Proyecto";
-            this.changelogProyectoToolStripMenuItem.Click += new System.EventHandler(this.changelogProyectoToolStripMenuItem_Click);
             // 
             // Menu
             // 
@@ -158,5 +176,7 @@ namespace Egresados_liceo
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.ToolStripMenuItem ayudaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem changelogProyectoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem aDMINISTRACIÓNToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem cUENTASToolStripMenuItem;
     }
 }
