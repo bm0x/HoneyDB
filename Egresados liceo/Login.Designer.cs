@@ -139,6 +139,8 @@ namespace Egresados_liceo
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Btn_Entrar_Login);
             this.Controls.Add(this.Btn_Salir_Login);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Login";
             this.Text = "Login";
             this.Load += new System.EventHandler(this.Login_Load);
