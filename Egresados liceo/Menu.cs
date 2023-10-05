@@ -49,7 +49,7 @@ namespace Egresados_liceo
 
         private void cUENTASToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            String query = "select count(*) from Usuarios where username='" + txt_user.Text;
 
         }
     }

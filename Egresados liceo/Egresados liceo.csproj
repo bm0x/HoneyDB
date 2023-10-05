@@ -58,6 +58,7 @@
     <Compile Include="Ayuda.Designer.cs">
       <DependentUpon>Ayuda.cs</DependentUpon>
     </Compile>
+    <Compile Include="Variables.cs" />
     <Compile Include="db_usuarios.cs" />
     <Compile Include="log.cs">
       <SubType>Form</SubType>
@@ -79,6 +80,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="admin_cuentas.resx">
+      <DependentUpon>admin_cuentas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ayuda.resx">
       <DependentUpon>Ayuda.cs</DependentUpon>
     </EmbeddedResource>
