@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -53,6 +54,48 @@
       <DependentUpon>Ayuda.cs</DependentUpon>
     </Compile>
     <Compile Include="db_usuarios.cs" />
+    <Compile Include="Egresados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Egresados.Designer.cs">
+      <DependentUpon>Egresados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ing_Cargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ing_Cargo.Designer.cs">
+      <DependentUpon>Ing_Cargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ing_Carrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ing_Carrera.Designer.cs">
+      <DependentUpon>Ing_Carrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ing_Empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ing_Empresa.Designer.cs">
+      <DependentUpon>Ing_Empresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ing_Empresa_Practica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ing_Empresa_Practica.Designer.cs">
+      <DependentUpon>Ing_Empresa_Practica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ing_Est_Egre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ing_Est_Egre.Designer.cs">
+      <DependentUpon>Ing_Est_Egre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ing_Institucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ing_Institucion.Designer.cs">
+      <DependentUpon>Ing_Institucion.cs</DependentUpon>
+    </Compile>
     <Compile Include="log.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +108,54 @@
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mantenedor_Egresados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedor_Egresados.Designer.cs">
+      <DependentUpon>Mantenedor_Egresados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mant_Cargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mant_Cargo.Designer.cs">
+      <DependentUpon>Mant_Cargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mant_Carrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mant_Carrera.Designer.cs">
+      <DependentUpon>Mant_Carrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mant_Empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mant_Empresa.Designer.cs">
+      <DependentUpon>Mant_Empresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mant_Empresa_Practica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mant_Empresa_Practica.Designer.cs">
+      <DependentUpon>Mant_Empresa_Practica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mant_Especialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mant_Especialidad.Designer.cs">
+      <DependentUpon>Mant_Especialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mant_Est_Egre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mant_Est_Egre.Designer.cs">
+      <DependentUpon>Mant_Est_Egre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mant_Institucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mant_Institucion.Designer.cs">
+      <DependentUpon>Mant_Institucion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,14 +164,65 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sistema Egresados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema Egresados.Designer.cs">
+      <DependentUpon>Sistema Egresados.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Ayuda.resx">
       <DependentUpon>Ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Egresados.resx">
+      <DependentUpon>Egresados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ing_Cargo.resx">
+      <DependentUpon>Ing_Cargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ing_Carrera.resx">
+      <DependentUpon>Ing_Carrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ing_Empresa.resx">
+      <DependentUpon>Ing_Empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ing_Empresa_Practica.resx">
+      <DependentUpon>Ing_Empresa_Practica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ing_Est_Egre.resx">
+      <DependentUpon>Ing_Est_Egre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ing_Institucion.resx">
+      <DependentUpon>Ing_Institucion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="log.resx">
       <DependentUpon>log.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedor_Egresados.resx">
+      <DependentUpon>Mantenedor_Egresados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mant_Cargo.resx">
+      <DependentUpon>Mant_Cargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mant_Carrera.resx">
+      <DependentUpon>Mant_Carrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mant_Empresa.resx">
+      <DependentUpon>Mant_Empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mant_Empresa_Practica.resx">
+      <DependentUpon>Mant_Empresa_Practica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mant_Especialidad.resx">
+      <DependentUpon>Mant_Especialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mant_Est_Egre.resx">
+      <DependentUpon>Mant_Est_Egre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mant_Institucion.resx">
+      <DependentUpon>Mant_Institucion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
@@ -95,6 +237,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Sistema Egresados.resx">
+      <DependentUpon>Sistema Egresados.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -137,6 +282,45 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\das.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sds-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kjk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kjk-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sfs-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kkk-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kkkk-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Borrar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Borrar-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpiar-removebg-preview.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

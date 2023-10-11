@@ -99,7 +99,6 @@ namespace Egresados_liceo
             this.txt_pass.Name = "txt_pass";
             this.txt_pass.Size = new System.Drawing.Size(167, 20);
             this.txt_pass.TabIndex = 5;
-            this.txt_pass.UseSystemPasswordChar = true;
             // 
             // pictureBox1
             // 
@@ -116,11 +115,11 @@ namespace Egresados_liceo
             // 
             this.bienvenida_user.AutoSize = true;
             this.bienvenida_user.BackColor = System.Drawing.Color.Transparent;
-            this.bienvenida_user.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bienvenida_user.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bienvenida_user.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.bienvenida_user.Location = new System.Drawing.Point(258, 156);
+            this.bienvenida_user.Location = new System.Drawing.Point(270, 157);
             this.bienvenida_user.Name = "bienvenida_user";
-            this.bienvenida_user.Size = new System.Drawing.Size(297, 24);
+            this.bienvenida_user.Size = new System.Drawing.Size(282, 20);
             this.bienvenida_user.TabIndex = 7;
             this.bienvenida_user.Text = "Bienvenido, Por favor inicia sesion";
             // 
@@ -139,8 +138,6 @@ namespace Egresados_liceo
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Btn_Entrar_Login);
             this.Controls.Add(this.Btn_Salir_Login);
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
             this.Name = "Login";
             this.Text = "Login";
             this.Load += new System.EventHandler(this.Login_Load);

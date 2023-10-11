@@ -33,3 +33,61 @@ C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados lic
 C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.exe
 C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados liceo.pdb
 C:\Users\rafy2\Source\Repos\bm0x\HoneyDB\Egresados liceo\obj\Debug\Egresados_liceo.log.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.csproj.AssemblyReference.cache
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ayuda.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Egresados.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.log.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Login.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mantenedor_Egresados.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Menu.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Properties.Resources.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Sistema_Egresados.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.csproj.GenerateResource.cache
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.csproj.CoreCompileInputs.cache
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.exe
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.pdb
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\bin\Debug\Egresados liceo.exe.config
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\bin\Debug\Egresados liceo.exe
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\bin\Debug\Egresados liceo.pdb
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Cargo.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Carrera.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Empresa.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Empresa_Practica.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Est_Egre.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Institucion.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Cargo.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Carrera.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Empresa.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Empresa_Practica.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Especialidad.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Est_Egre.resources
+C:\Users\pc}\Desktop\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Institucion.resources
+D:\HoneyDB-master\Egresados liceo\bin\Debug\Egresados liceo.exe.config
+D:\HoneyDB-master\Egresados liceo\bin\Debug\Egresados liceo.exe
+D:\HoneyDB-master\Egresados liceo\bin\Debug\Egresados liceo.pdb
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.csproj.AssemblyReference.cache
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ayuda.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Egresados.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Cargo.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Carrera.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Empresa.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Empresa_Practica.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Est_Egre.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Ing_Institucion.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.log.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Login.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mantenedor_Egresados.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Cargo.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Carrera.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Empresa.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Empresa_Practica.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Especialidad.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Est_Egre.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Mant_Institucion.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Menu.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Properties.Resources.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados_liceo.Sistema_Egresados.resources
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.csproj.GenerateResource.cache
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.csproj.CoreCompileInputs.cache
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.exe
+D:\HoneyDB-master\Egresados liceo\obj\Debug\Egresados liceo.pdb
